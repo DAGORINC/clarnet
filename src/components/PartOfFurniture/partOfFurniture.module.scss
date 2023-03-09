@@ -1,0 +1,31 @@
+.general{
+    border: 1px solid #d98e80;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    background-color: #eac5be;
+}
+
+.form{
+    width: 30%;
+}
+
+.image{
+    width: 650px;
+    object-fit: contain;
+    margin-right: 10px;
+}
+
+.descriptionInput{
+    width: 790px;
+    height: 80%;
+}
+
+.input{
+    width: 96%;
+}
+
+.categoryContainer{
+    margin-top: 10px;
+}

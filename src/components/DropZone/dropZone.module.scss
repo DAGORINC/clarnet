@@ -1,0 +1,44 @@
+.general{
+    background-color: #232323;
+}
+
+.dropZone{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100vw - 18px);
+    max-width: 100%;
+    background-color: #eac5be;
+    color: #c85742;
+    border: 2px solid #c85742;
+    padding-top: 50px;
+}
+
+.button{
+    height: 50px;
+    width: 50%;
+    padding: none;
+    margin: none;
+    border: 1px solid #c85742;
+    background-color: #d98e80;
+    color: #fcfcfc;
+}
+
+.title{
+    width: 100vw;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonsDiv{
+    width: 100vw;
+    max-width: 100%;
+    position: fixed;
+}
+
+.logo{
+    width: calc(100% - 10px);
+}
