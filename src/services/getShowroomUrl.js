@@ -1,4 +1,4 @@
 export function getShowroomUrl() {
 
-  return ('http://localhost:3002/')
+  return ('https://da-gor.pl:4000/')
 }
